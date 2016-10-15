@@ -4,8 +4,8 @@ Update ALL the named colours to create a monochromatic scheme
 Style the menus - one horizontally and one vertically
 Add the hover/active effects to your menu items
 ***************************************************/
- @import url("https://fonts.googleapis.com/css?family=Bree+Serif|7cOpen+Sans");
-     
+
+@import url('https://fonts.googleapis.com/css?family=Lora|Source+Sans+Pro');
 *{
     padding: 0;
     margin: 0;
@@ -15,7 +15,7 @@ html{
     font-size: 16px;
     line-height: 1.6;
     /* ADD the Google sans-serif font to this font stack */
-    font-family: 'Open Sans', 'Tahoma', arial, sans-serif;
+    font-family: 'Source Sans Pro', 'Tahoma', arial, sans-serif;
 }
 html, body{
     background-color: #ffecc4;
@@ -23,13 +23,13 @@ html, body{
 h1{
     font-size: 6.854rem;
     /* ADD the Google serif font to this font stack */
-    font-family: 'Bree Serif', 'Palatino', 'Georia', serif; 
+    font-family: 'Lora', 'Palatino', 'Georia', serif; 
     padding: 1rem 2rem;
 }
 h2{
     font-size: 4.23rem;
     /* ADD the Google serif font to this font stack */
-    font-family: 'Bree Serif', 'Palatino', 'Georia', serif;
+    font-family: 'Lora', 'Palatino', 'Georia', serif;
     padding: 1rem 2rem;
 }
 nav li{
