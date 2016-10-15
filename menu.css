@@ -4,6 +4,8 @@ Update ALL the named colours to create a monochromatic scheme
 Style the menus - one horizontally and one vertically
 Add the hover/active effects to your menu items
 ***************************************************/
+ @import url("https://fonts.googleapis.com/css?family=Bree+Serif|7cOpen+Sans");
+     
 *{
     padding: 0;
     margin: 0;
